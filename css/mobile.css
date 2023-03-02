@@ -36,9 +36,6 @@
 .menu {
     grid-template-columns: repeat(2, 1fr);
 }
-.target-product {
-    grid-template-rows: repeat(2, 1fr);
-}
 .target-product__texts {
     align-items: center;
 }

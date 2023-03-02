@@ -87,3 +87,9 @@ body {
     flex-direction: column;
     text-align: left;
 }
+.target-product__title {
+    line-height: 100%;
+}
+.target-product__text {
+    margin-top: unset;
+}

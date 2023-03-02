@@ -51,9 +51,13 @@
 .target-product {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 3rem;
+    align-items: center;
 }
 .target-product__texts {
     align-items: flex-start;
+}
+.target-product__title {
+    margin-top: unset;
 }
 .button:hover {
     color: var(--color-purple);
