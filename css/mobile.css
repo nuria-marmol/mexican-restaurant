@@ -27,10 +27,12 @@
     padding: 1rem 0;
 }
 .hero-price__text {
+    margin: 1rem 0;
     font-size: 2rem;
     font-weight: normal;
 }
 .hero-price__title {
+    margin-top: unset;
     font-size: 1rem;
 }
 .menu {

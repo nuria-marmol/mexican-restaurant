@@ -66,10 +66,12 @@ body {
 .menu__icon {
     font-size: 2.5rem;
     margin-top: .3rem;
+    margin-bottom: unset;
 }
 .menu__title {
     font-size: 1.2rem;
     margin-bottom: .5rem;
+    margin-top: unset;
 }
 .menu__description {
     margin-bottom: .6rem;
@@ -85,7 +87,6 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: left;
 }
 .target-product__title {
     line-height: 100%;
